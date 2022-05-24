@@ -1,0 +1,16 @@
+C:\Users\pedro\source\repos\INTERFACES\50-Ejercicio\bin\Debug\net5.0\50-Ejercicio.exe
+C:\Users\pedro\source\repos\INTERFACES\50-Ejercicio\bin\Debug\net5.0\50-Ejercicio.deps.json
+C:\Users\pedro\source\repos\INTERFACES\50-Ejercicio\bin\Debug\net5.0\50-Ejercicio.runtimeconfig.json
+C:\Users\pedro\source\repos\INTERFACES\50-Ejercicio\bin\Debug\net5.0\50-Ejercicio.runtimeconfig.dev.json
+C:\Users\pedro\source\repos\INTERFACES\50-Ejercicio\bin\Debug\net5.0\50-Ejercicio.dll
+C:\Users\pedro\source\repos\INTERFACES\50-Ejercicio\bin\Debug\net5.0\ref\50-Ejercicio.dll
+C:\Users\pedro\source\repos\INTERFACES\50-Ejercicio\bin\Debug\net5.0\50-Ejercicio.pdb
+C:\Users\pedro\source\repos\INTERFACES\50-Ejercicio\obj\Debug\net5.0\50-Ejercicio.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\INTERFACES\50-Ejercicio\obj\Debug\net5.0\50-Ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\INTERFACES\50-Ejercicio\obj\Debug\net5.0\50-Ejercicio.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\INTERFACES\50-Ejercicio\obj\Debug\net5.0\50-Ejercicio.AssemblyInfo.cs
+C:\Users\pedro\source\repos\INTERFACES\50-Ejercicio\obj\Debug\net5.0\50-Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\INTERFACES\50-Ejercicio\obj\Debug\net5.0\50-Ejercicio.dll
+C:\Users\pedro\source\repos\INTERFACES\50-Ejercicio\obj\Debug\net5.0\ref\50-Ejercicio.dll
+C:\Users\pedro\source\repos\INTERFACES\50-Ejercicio\obj\Debug\net5.0\50-Ejercicio.pdb
+C:\Users\pedro\source\repos\INTERFACES\50-Ejercicio\obj\Debug\net5.0\50-Ejercicio.genruntimeconfig.cache

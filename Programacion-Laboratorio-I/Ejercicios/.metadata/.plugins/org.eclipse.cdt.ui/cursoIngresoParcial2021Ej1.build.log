@@ -1,0 +1,7 @@
+15:33:26 **** Rebuild of configuration Debug for project cursoIngresoParcial2021Ej1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\cursoIngresoParcial2021Ej1.o" "..\\src\\cursoIngresoParcial2021Ej1.c" 
+gcc -o cursoIngresoParcial2021Ej1.exe "src\\cursoIngresoParcial2021Ej1.o" 
+
+15:33:26 Build Finished. 0 errors, 0 warnings. (took 313ms)
+

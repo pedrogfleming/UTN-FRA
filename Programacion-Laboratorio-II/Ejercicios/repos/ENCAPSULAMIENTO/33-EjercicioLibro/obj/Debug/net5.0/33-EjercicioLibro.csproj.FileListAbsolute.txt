@@ -1,0 +1,16 @@
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\33-EjercicioLibro\bin\Debug\net5.0\33-EjercicioLibro.exe
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\33-EjercicioLibro\bin\Debug\net5.0\33-EjercicioLibro.deps.json
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\33-EjercicioLibro\bin\Debug\net5.0\33-EjercicioLibro.runtimeconfig.json
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\33-EjercicioLibro\bin\Debug\net5.0\33-EjercicioLibro.runtimeconfig.dev.json
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\33-EjercicioLibro\bin\Debug\net5.0\33-EjercicioLibro.dll
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\33-EjercicioLibro\bin\Debug\net5.0\ref\33-EjercicioLibro.dll
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\33-EjercicioLibro\bin\Debug\net5.0\33-EjercicioLibro.pdb
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\33-EjercicioLibro\obj\Debug\net5.0\33-EjercicioLibro.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\33-EjercicioLibro\obj\Debug\net5.0\33-EjercicioLibro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\33-EjercicioLibro\obj\Debug\net5.0\33-EjercicioLibro.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\33-EjercicioLibro\obj\Debug\net5.0\33-EjercicioLibro.AssemblyInfo.cs
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\33-EjercicioLibro\obj\Debug\net5.0\33-EjercicioLibro.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\33-EjercicioLibro\obj\Debug\net5.0\33-EjercicioLibro.dll
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\33-EjercicioLibro\obj\Debug\net5.0\ref\33-EjercicioLibro.dll
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\33-EjercicioLibro\obj\Debug\net5.0\33-EjercicioLibro.pdb
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\33-EjercicioLibro\obj\Debug\net5.0\33-EjercicioLibro.genruntimeconfig.cache

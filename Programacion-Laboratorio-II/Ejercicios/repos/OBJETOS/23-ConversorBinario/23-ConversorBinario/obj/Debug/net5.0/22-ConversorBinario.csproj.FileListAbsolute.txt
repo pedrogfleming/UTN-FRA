@@ -1,0 +1,16 @@
+C:\Users\pedro\source\repos\23-ConversorBinario\23-ConversorBinario\obj\Debug\net5.0\22-ConversorBinario.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\23-ConversorBinario\23-ConversorBinario\obj\Debug\net5.0\22-ConversorBinario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\23-ConversorBinario\23-ConversorBinario\obj\Debug\net5.0\22-ConversorBinario.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\23-ConversorBinario\23-ConversorBinario\obj\Debug\net5.0\22-ConversorBinario.AssemblyInfo.cs
+C:\Users\pedro\source\repos\23-ConversorBinario\23-ConversorBinario\obj\Debug\net5.0\22-ConversorBinario.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\23-ConversorBinario\23-ConversorBinario\bin\Debug\net5.0\22-ConversorBinario.exe
+C:\Users\pedro\source\repos\23-ConversorBinario\23-ConversorBinario\bin\Debug\net5.0\22-ConversorBinario.deps.json
+C:\Users\pedro\source\repos\23-ConversorBinario\23-ConversorBinario\bin\Debug\net5.0\22-ConversorBinario.runtimeconfig.json
+C:\Users\pedro\source\repos\23-ConversorBinario\23-ConversorBinario\bin\Debug\net5.0\22-ConversorBinario.runtimeconfig.dev.json
+C:\Users\pedro\source\repos\23-ConversorBinario\23-ConversorBinario\bin\Debug\net5.0\22-ConversorBinario.dll
+C:\Users\pedro\source\repos\23-ConversorBinario\23-ConversorBinario\bin\Debug\net5.0\ref\22-ConversorBinario.dll
+C:\Users\pedro\source\repos\23-ConversorBinario\23-ConversorBinario\bin\Debug\net5.0\22-ConversorBinario.pdb
+C:\Users\pedro\source\repos\23-ConversorBinario\23-ConversorBinario\obj\Debug\net5.0\22-ConversorBinario.dll
+C:\Users\pedro\source\repos\23-ConversorBinario\23-ConversorBinario\obj\Debug\net5.0\ref\22-ConversorBinario.dll
+C:\Users\pedro\source\repos\23-ConversorBinario\23-ConversorBinario\obj\Debug\net5.0\22-ConversorBinario.pdb
+C:\Users\pedro\source\repos\23-ConversorBinario\23-ConversorBinario\obj\Debug\net5.0\22-ConversorBinario.genruntimeconfig.cache

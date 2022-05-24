@@ -1,0 +1,16 @@
+C:\Users\pedro\source\repos\HERENCIA\35-Ejercicio\obj\Debug\net5.0\36-Ejercicio.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\HERENCIA\35-Ejercicio\obj\Debug\net5.0\36-Ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\HERENCIA\35-Ejercicio\obj\Debug\net5.0\36-Ejercicio.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\HERENCIA\35-Ejercicio\obj\Debug\net5.0\36-Ejercicio.AssemblyInfo.cs
+C:\Users\pedro\source\repos\HERENCIA\35-Ejercicio\obj\Debug\net5.0\36-Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\HERENCIA\35-Ejercicio\bin\Debug\net5.0\36-Ejercicio.exe
+C:\Users\pedro\source\repos\HERENCIA\35-Ejercicio\bin\Debug\net5.0\36-Ejercicio.deps.json
+C:\Users\pedro\source\repos\HERENCIA\35-Ejercicio\bin\Debug\net5.0\36-Ejercicio.runtimeconfig.json
+C:\Users\pedro\source\repos\HERENCIA\35-Ejercicio\bin\Debug\net5.0\36-Ejercicio.runtimeconfig.dev.json
+C:\Users\pedro\source\repos\HERENCIA\35-Ejercicio\bin\Debug\net5.0\36-Ejercicio.dll
+C:\Users\pedro\source\repos\HERENCIA\35-Ejercicio\bin\Debug\net5.0\ref\36-Ejercicio.dll
+C:\Users\pedro\source\repos\HERENCIA\35-Ejercicio\bin\Debug\net5.0\36-Ejercicio.pdb
+C:\Users\pedro\source\repos\HERENCIA\35-Ejercicio\obj\Debug\net5.0\36-Ejercicio.dll
+C:\Users\pedro\source\repos\HERENCIA\35-Ejercicio\obj\Debug\net5.0\ref\36-Ejercicio.dll
+C:\Users\pedro\source\repos\HERENCIA\35-Ejercicio\obj\Debug\net5.0\36-Ejercicio.pdb
+C:\Users\pedro\source\repos\HERENCIA\35-Ejercicio\obj\Debug\net5.0\36-Ejercicio.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\pedro\source\repos\ARRAYSCOLECCIONES\29-Equipos\bin\Debug\net5.0\29-Equipos.exe
+C:\Users\pedro\source\repos\ARRAYSCOLECCIONES\29-Equipos\bin\Debug\net5.0\29-Equipos.deps.json
+C:\Users\pedro\source\repos\ARRAYSCOLECCIONES\29-Equipos\bin\Debug\net5.0\29-Equipos.runtimeconfig.json
+C:\Users\pedro\source\repos\ARRAYSCOLECCIONES\29-Equipos\bin\Debug\net5.0\29-Equipos.runtimeconfig.dev.json
+C:\Users\pedro\source\repos\ARRAYSCOLECCIONES\29-Equipos\bin\Debug\net5.0\29-Equipos.dll
+C:\Users\pedro\source\repos\ARRAYSCOLECCIONES\29-Equipos\bin\Debug\net5.0\ref\29-Equipos.dll
+C:\Users\pedro\source\repos\ARRAYSCOLECCIONES\29-Equipos\bin\Debug\net5.0\29-Equipos.pdb
+C:\Users\pedro\source\repos\ARRAYSCOLECCIONES\29-Equipos\obj\Debug\net5.0\29-Equipos.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\ARRAYSCOLECCIONES\29-Equipos\obj\Debug\net5.0\29-Equipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\ARRAYSCOLECCIONES\29-Equipos\obj\Debug\net5.0\29-Equipos.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\ARRAYSCOLECCIONES\29-Equipos\obj\Debug\net5.0\29-Equipos.AssemblyInfo.cs
+C:\Users\pedro\source\repos\ARRAYSCOLECCIONES\29-Equipos\obj\Debug\net5.0\29-Equipos.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\ARRAYSCOLECCIONES\29-Equipos\obj\Debug\net5.0\29-Equipos.dll
+C:\Users\pedro\source\repos\ARRAYSCOLECCIONES\29-Equipos\obj\Debug\net5.0\ref\29-Equipos.dll
+C:\Users\pedro\source\repos\ARRAYSCOLECCIONES\29-Equipos\obj\Debug\net5.0\29-Equipos.pdb
+C:\Users\pedro\source\repos\ARRAYSCOLECCIONES\29-Equipos\obj\Debug\net5.0\29-Equipos.genruntimeconfig.cache

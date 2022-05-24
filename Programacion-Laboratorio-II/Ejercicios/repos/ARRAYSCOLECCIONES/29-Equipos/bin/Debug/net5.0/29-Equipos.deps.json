@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "29-Equipos/1.0.0": {
+        "runtime": {
+          "29-Equipos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "29-Equipos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

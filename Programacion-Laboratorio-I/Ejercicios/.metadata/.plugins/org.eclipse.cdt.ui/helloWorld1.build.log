@@ -1,0 +1,16 @@
+20:43:42 **** Incremental Build of configuration Debug for project helloWorld1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\helloWorld1.o" "..\\src\\helloWorld1.c" 
+..\src\helloWorld1.c: In function 'main':
+..\src\helloWorld1.c:17:9: warning: character constant too long for its type
+  printf('hola mundo');
+         ^~~~~~~~~~~~
+..\src\helloWorld1.c:17:9: warning: passing argument 1 of 'printf' makes pointer from integer without a cast [-Wint-conversion]
+In file included from ..\src\helloWorld1.c:11:0:
+c:\mingw\include\stdio.h:454:38: note: expected 'const char *' but argument is of type 'int'
+ _CRTIMP __cdecl __MINGW_NOTHROW  int printf (const char *, ...);
+                                      ^~~~~~
+gcc -o helloWorld1.exe "src\\helloWorld1.o" 
+
+20:43:42 Build Finished. 0 errors, 2 warnings. (took 346ms)
+

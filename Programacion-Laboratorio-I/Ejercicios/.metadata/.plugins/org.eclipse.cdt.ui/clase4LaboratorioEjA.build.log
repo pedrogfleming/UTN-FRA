@@ -1,0 +1,23 @@
+11:54:30 **** Incremental Build of configuration Debug for project clase4LaboratorioEjA ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\clase4LaboratorioEjA.o" "..\\src\\clase4LaboratorioEjA.c" 
+..\src\clase4LaboratorioEjA.c: In function 'main':
+..\src\clase4LaboratorioEjA.c:24:14: warning: passing argument 1 of 'mostrarMenu' makes integer from pointer without a cast [-Wint-conversion]
+  mostrarMenu(&comandoMenu);
+              ^
+..\src\clase4LaboratorioEjA.c:18:5: note: expected 'int' but argument is of type 'int *'
+ int mostrarMenu(int puntero);
+     ^~~~~~~~~~~
+..\src\clase4LaboratorioEjA.c: In function 'mostrarMenu':
+..\src\clase4LaboratorioEjA.c:37:6: error: 'puntero' redeclared as different kind of symbol
+  int puntero = scanf("%d",puntero);
+      ^~~~~~~
+..\src\clase4LaboratorioEjA.c:33:21: note: previous definition of 'puntero' was here
+ int mostrarMenu(int puntero)
+                     ^~~~~~~
+..\src\clase4LaboratorioEjA.c:37:24: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+  int puntero = scanf("%d",puntero);
+                        ^
+
+11:54:30 Build Failed. 1 errors, 2 warnings. (took 161ms)
+

@@ -1,0 +1,16 @@
+C:\Users\pedro\source\repos\HERENCIA\35-Ejercicio\obj\Debug\net5.0\36-EjercicioEjercicioVehiculos.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\HERENCIA\35-Ejercicio\obj\Debug\net5.0\36-EjercicioEjercicioVehiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\HERENCIA\35-Ejercicio\obj\Debug\net5.0\36-EjercicioEjercicioVehiculos.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\HERENCIA\35-Ejercicio\obj\Debug\net5.0\36-EjercicioEjercicioVehiculos.AssemblyInfo.cs
+C:\Users\pedro\source\repos\HERENCIA\35-Ejercicio\obj\Debug\net5.0\36-EjercicioEjercicioVehiculos.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\HERENCIA\35-Ejercicio\bin\Debug\net5.0\36-EjercicioEjercicioVehiculos.exe
+C:\Users\pedro\source\repos\HERENCIA\35-Ejercicio\bin\Debug\net5.0\36-EjercicioEjercicioVehiculos.deps.json
+C:\Users\pedro\source\repos\HERENCIA\35-Ejercicio\bin\Debug\net5.0\36-EjercicioEjercicioVehiculos.runtimeconfig.json
+C:\Users\pedro\source\repos\HERENCIA\35-Ejercicio\bin\Debug\net5.0\36-EjercicioEjercicioVehiculos.runtimeconfig.dev.json
+C:\Users\pedro\source\repos\HERENCIA\35-Ejercicio\bin\Debug\net5.0\36-EjercicioEjercicioVehiculos.dll
+C:\Users\pedro\source\repos\HERENCIA\35-Ejercicio\bin\Debug\net5.0\ref\36-EjercicioEjercicioVehiculos.dll
+C:\Users\pedro\source\repos\HERENCIA\35-Ejercicio\bin\Debug\net5.0\36-EjercicioEjercicioVehiculos.pdb
+C:\Users\pedro\source\repos\HERENCIA\35-Ejercicio\obj\Debug\net5.0\36-EjercicioEjercicioVehiculos.dll
+C:\Users\pedro\source\repos\HERENCIA\35-Ejercicio\obj\Debug\net5.0\ref\36-EjercicioEjercicioVehiculos.dll
+C:\Users\pedro\source\repos\HERENCIA\35-Ejercicio\obj\Debug\net5.0\36-EjercicioEjercicioVehiculos.pdb
+C:\Users\pedro\source\repos\HERENCIA\35-Ejercicio\obj\Debug\net5.0\36-EjercicioEjercicioVehiculos.genruntimeconfig.cache

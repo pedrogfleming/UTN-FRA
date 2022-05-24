@@ -1,0 +1,128 @@
+Fecha y hora del error:
+17/11/2021 21:04:27
+Descripcion:
+Object reference not set to an instance of an object.
+   at TP4.FormInformes.cursosToolStripMenuItem_Click(Object sender, EventArgs e) in C:\Users\pedro\tpsUTN\Geraghty.Pedro.2C.TPFinal\TP3\FormInformes.cs:line 229
+---------------------------------------------------------------------------------------------------------
+
+Fecha y hora del error:
+17/11/2021 21:04:29
+Descripcion:
+Object reference not set to an instance of an object.
+   at TP4.FormInformes.alumnosToolStripMenuItem_Click(Object sender, EventArgs e) in C:\Users\pedro\tpsUTN\Geraghty.Pedro.2C.TPFinal\TP3\FormInformes.cs:line 191
+---------------------------------------------------------------------------------------------------------
+
+Fecha y hora del error:
+19/11/2021 01:37:45
+Descripcion:
+Unable to cast object of type 'System.Int32' to type 'System.Int16'.
+   at System.Data.SqlClient.SqlBuffer.get_Int16()
+   at System.Data.SqlClient.SqlDataReader.GetInt16(Int32 i)
+   at System.Data.DataReaderExtensions.GetInt16(DbDataReader reader, String name)
+   at Entidades.AccesoDatos.ObtenerListaAlumnos() in C:\Users\pedro\tpsUTN\Geraghty.Pedro.2C.TPFinal\Entidades\AccesoDatos.cs:line 91
+   at TP4.FormPrincipal.FormPrincipal_Load(Object sender, EventArgs e) in C:\Users\pedro\tpsUTN\Geraghty.Pedro.2C.TPFinal\TP3\FormPrincipal.cs:line 132
+---------------------------------------------------------------------------------------------------------
+
+Fecha y hora del error:
+19/11/2021 01:38:36
+Descripcion:
+Se ha encontrado un id repetido en la base de datos Id: 0
+Apellido: Borja
+Nombre:  Samantha
+Dni: 34623863
+Genero: femenino
+Edad: 19
+Id: 0
+Apellido: Cruz
+Nombre:  Miguel
+Dni: 98074835
+Genero: masculino
+Edad: 44
+
+   at Entidades.Instituto.ChequearIdRepetidos[T](List`1 lista) in C:\Users\pedro\tpsUTN\Geraghty.Pedro.2C.TPFinal\Entidades\Instituto.cs:line 318
+   at TP4.FormPrincipal.FormPrincipal_Load(Object sender, EventArgs e) in C:\Users\pedro\tpsUTN\Geraghty.Pedro.2C.TPFinal\TP3\FormPrincipal.cs:line 153
+---------------------------------------------------------------------------------------------------------
+
+Fecha y hora del error:
+19/11/2021 01:38:54
+Descripcion:
+Se ha encontrado un id repetido en la base de datos Id: 0
+Apellido: Borja
+Nombre:  Samantha
+Dni: 34623863
+Genero: femenino
+Edad: 19
+Id: 0
+Apellido: Cruz
+Nombre:  Miguel
+Dni: 98074835
+Genero: masculino
+Edad: 44
+
+   at Entidades.Instituto.ChequearIdRepetidos[T](List`1 lista) in C:\Users\pedro\tpsUTN\Geraghty.Pedro.2C.TPFinal\Entidades\Instituto.cs:line 318
+   at TP4.FormPrincipal.FormPrincipal_Load(Object sender, EventArgs e) in C:\Users\pedro\tpsUTN\Geraghty.Pedro.2C.TPFinal\TP3\FormPrincipal.cs:line 153
+---------------------------------------------------------------------------------------------------------
+
+Fecha y hora del error:
+19/11/2021 22:35:08
+Descripcion:
+Object reference not set to an instance of an object.
+   at TP4.FormInformes.cursosToolStripMenuItem_Click(Object sender, EventArgs e) in C:\Users\pedro\tpsUTN\Geraghty.Pedro.2C.TPFinal\TP3\FormInformes.cs:line 229
+---------------------------------------------------------------------------------------------------------
+
+Fecha y hora del error:
+19/11/2021 22:35:15
+Descripcion:
+Object reference not set to an instance of an object.
+   at TP4.FormInformes.cursosToolStripMenuItem_Click(Object sender, EventArgs e) in C:\Users\pedro\tpsUTN\Geraghty.Pedro.2C.TPFinal\TP3\FormInformes.cs:line 229
+---------------------------------------------------------------------------------------------------------
+
+Fecha y hora del error:
+20/11/2021 15:09:00
+Descripcion:
+Object reference not set to an instance of an object.
+   at TP4.FormInformes.alumnosToolStripMenuItem_Click(Object sender, EventArgs e) in C:\Users\pedro\tpsUTN\Geraghty.Pedro.2C.TPFinal\TP3\FormInformes.cs:line 191
+---------------------------------------------------------------------------------------------------------
+
+Fecha y hora del error:
+20/11/2021 15:09:03
+Descripcion:
+Object reference not set to an instance of an object.
+   at TP4.FormInformes.cursosToolStripMenuItem_Click(Object sender, EventArgs e) in C:\Users\pedro\tpsUTN\Geraghty.Pedro.2C.TPFinal\TP3\FormInformes.cs:line 229
+---------------------------------------------------------------------------------------------------------
+
+Fecha y hora del error:
+20/11/2021 16:11:42
+Descripcion:
+Object reference not set to an instance of an object.
+   at TP4.FormInformes.cursosToolStripMenuItem_Click(Object sender, EventArgs e) in C:\Users\pedro\tpsUTN\Geraghty.Pedro.2C.TPFinal\TP3\FormInformes.cs:line 229
+---------------------------------------------------------------------------------------------------------
+
+Fecha y hora del error:
+21/11/2021 14:43:36
+Descripcion:
+Error al intentar actualizar la base de datos
+   at TP4.FormCursos.btnQuitar_Click(Object sender, EventArgs e) in C:\Users\pedro\tpsUTN\Geraghty.Pedro.2C.TPFinal\TP3\FormCursos.cs:line 120
+---------------------------------------------------------------------------------------------------------
+
+Fecha y hora del error:
+22/11/2021 11:46:37
+Descripcion:
+Object reference not set to an instance of an object.
+   at TP4.FormMails.FormMails_FormClosing(Object sender, FormClosingEventArgs e) in C:\Users\pedro\tpsUTN\Geraghty.Pedro.2C.TPFinal\TP3\FormMails.cs:line 129
+---------------------------------------------------------------------------------------------------------
+
+Fecha y hora del error:
+22/11/2021 11:47:25
+Descripcion:
+Error al intentar actualizar la base de datos
+   at TP4.FormCursos.btnQuitar_Click(Object sender, EventArgs e) in C:\Users\pedro\tpsUTN\Geraghty.Pedro.2C.TPFinal\TP3\FormCursos.cs:line 110
+---------------------------------------------------------------------------------------------------------
+
+Fecha y hora del error:
+22/11/2021 12:52:58
+Descripcion:
+Object reference not set to an instance of an object.
+   at TP4.FormMails.FormMails_FormClosing(Object sender, FormClosingEventArgs e) in C:\Users\pedro\tpsUTN\Geraghty.Pedro.2C.TPFinal\TP3\FormMails.cs:line 131
+---------------------------------------------------------------------------------------------------------
+

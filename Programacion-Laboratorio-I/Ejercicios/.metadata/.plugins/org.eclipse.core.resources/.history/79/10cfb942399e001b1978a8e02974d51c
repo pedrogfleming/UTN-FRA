@@ -1,0 +1,33 @@
+/*
+ ============================================================================
+ Name        : clase7LaboratorioTest.c
+ Author      : Geraghty Fleming Pedro 1E
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <ctype.h>
+
+int main(void)
+{
+	setbuf(stdout,NULL);
+	char texto[] = "hola nona";
+	char conjuntoCaracteres[] = {'h','o','l','a','\0'};
+	int num1 = 44;
+	printf("\n el texto es : %s",texto);
+
+	strcpy(texto,"Pedro");//string copy remplaza el array de chars de una variable
+	printf("\n el texto es : %s",texto);
+	//Cuenta un caracter de mas
+	printf("\nTexto:%s tamanio: %d \n", texto, sizeof(texto));
+	printf("Longitud de la cadena= %d \n",strlen(texto));
+	printf("Longitud del numero= %d \n",strlen(num1));
+	printf("\nTexto:%s tamanio: %d \n", conjuntoCaracteres, sizeof(conjuntoCaracteres));
+
+	return EXIT_SUCCESS;
+}

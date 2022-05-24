@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FormPrincipal/1.0.0": {
+        "dependencies": {
+          "Entidades": "1.0.0",
+          "SistemaOperativo": "1.0.0"
+        },
+        "runtime": {
+          "FormPrincipal.dll": {}
+        }
+      },
+      "Entidades/1.0.0": {
+        "dependencies": {
+          "SistemaOperativo": "1.0.0"
+        },
+        "runtime": {
+          "Entidades.dll": {}
+        }
+      },
+      "SistemaOperativo/1.0.0": {
+        "runtime": {
+          "SistemaOperativo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FormPrincipal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SistemaOperativo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

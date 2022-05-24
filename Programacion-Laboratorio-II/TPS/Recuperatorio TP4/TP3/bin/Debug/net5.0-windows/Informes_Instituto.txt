@@ -1,0 +1,18 @@
+El porcentaje de menores a 21 años inscriptos en el instituto es de %21,052631
+El porcentaje de personas entre 22 y 32 años inscriptos en el instituto es de %15,789474
+El porcentaje de personas entre 33 y 42 años inscriptos en el instituto es de %15,789474
+El porcentaje de personas entre 43 y 70 años inscriptos en el instituto es de %26,31579
+El porcentaje de personas entre 61 y 120 años inscriptos en el instituto es de %21,052631
+El porcentaje de personas de genero femenino inscriptas en el instituto es de %21,052631
+El porcentaje de personas de genero masculino inscriptos en el instituto es de %42,105263
+El porcentaje de personas de genero no binario inscriptos en el instituto es de %21,052631
+El porcentaje de personas de genero otre inscriptos en el instituto es de %15,789474
+
+El curso mas elegido por personas de genero femenino es: 
+Cobol
+El curso mas elegido por personas de genero masculino es: 
+Cobol
+El curso mas elegido por personas de genero no binario es: 
+Css
+El curso mas elegido por personas de genero otro es: 
+Css

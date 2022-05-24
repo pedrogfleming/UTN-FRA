@@ -1,0 +1,24 @@
+/*
+ ============================================================================
+ Name        : clase7LaboratorioTest.c
+ Author      : Geraghty Fleming Pedro 1E
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <ctype.h>
+
+int main(void)
+{
+	setbuf(stdout,NULL);
+	char texto[] = "hola nona";
+	printf("\n el texto es : %s",texto);
+
+	strcpy(texto,"Pedro");
+	return EXIT_SUCCESS;
+}

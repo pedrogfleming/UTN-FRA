@@ -1,0 +1,16 @@
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\32-EjercicioJugadores\bin\Debug\net5.0\32-EjercicioJugadores.exe
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\32-EjercicioJugadores\bin\Debug\net5.0\32-EjercicioJugadores.deps.json
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\32-EjercicioJugadores\bin\Debug\net5.0\32-EjercicioJugadores.runtimeconfig.json
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\32-EjercicioJugadores\bin\Debug\net5.0\32-EjercicioJugadores.runtimeconfig.dev.json
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\32-EjercicioJugadores\bin\Debug\net5.0\32-EjercicioJugadores.dll
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\32-EjercicioJugadores\bin\Debug\net5.0\ref\32-EjercicioJugadores.dll
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\32-EjercicioJugadores\bin\Debug\net5.0\32-EjercicioJugadores.pdb
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\32-EjercicioJugadores\obj\Debug\net5.0\32-EjercicioJugadores.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\32-EjercicioJugadores\obj\Debug\net5.0\32-EjercicioJugadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\32-EjercicioJugadores\obj\Debug\net5.0\32-EjercicioJugadores.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\32-EjercicioJugadores\obj\Debug\net5.0\32-EjercicioJugadores.AssemblyInfo.cs
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\32-EjercicioJugadores\obj\Debug\net5.0\32-EjercicioJugadores.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\32-EjercicioJugadores\obj\Debug\net5.0\32-EjercicioJugadores.dll
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\32-EjercicioJugadores\obj\Debug\net5.0\ref\32-EjercicioJugadores.dll
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\32-EjercicioJugadores\obj\Debug\net5.0\32-EjercicioJugadores.pdb
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\32-EjercicioJugadores\obj\Debug\net5.0\32-EjercicioJugadores.genruntimeconfig.cache

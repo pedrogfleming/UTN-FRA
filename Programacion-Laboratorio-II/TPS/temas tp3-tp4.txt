@@ -1,0 +1,4 @@
+Temas que debe incluir el TP N°3 (primera entrega 8/11)
+Excepciones, Pruebas unitarias, Generics, Interfaces, Archivos y Serialización.
+Temas que debe incluir el TP N°4 (segunda entrega 22/11)
+Todos los de la primera entrega y agregar: Base de datos, Hilos, Eventos y Métodos de extensión.

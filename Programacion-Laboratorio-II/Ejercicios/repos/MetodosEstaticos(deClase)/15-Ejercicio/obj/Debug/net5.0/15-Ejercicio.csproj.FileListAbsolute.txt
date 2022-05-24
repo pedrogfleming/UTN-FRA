@@ -1,0 +1,16 @@
+C:\Users\pedro\source\repos\MetodosEstaticos(deClase)\15-Ejercicio\bin\Debug\net5.0\15-Ejercicio.exe
+C:\Users\pedro\source\repos\MetodosEstaticos(deClase)\15-Ejercicio\bin\Debug\net5.0\15-Ejercicio.deps.json
+C:\Users\pedro\source\repos\MetodosEstaticos(deClase)\15-Ejercicio\bin\Debug\net5.0\15-Ejercicio.runtimeconfig.json
+C:\Users\pedro\source\repos\MetodosEstaticos(deClase)\15-Ejercicio\bin\Debug\net5.0\15-Ejercicio.runtimeconfig.dev.json
+C:\Users\pedro\source\repos\MetodosEstaticos(deClase)\15-Ejercicio\bin\Debug\net5.0\15-Ejercicio.dll
+C:\Users\pedro\source\repos\MetodosEstaticos(deClase)\15-Ejercicio\bin\Debug\net5.0\ref\15-Ejercicio.dll
+C:\Users\pedro\source\repos\MetodosEstaticos(deClase)\15-Ejercicio\bin\Debug\net5.0\15-Ejercicio.pdb
+C:\Users\pedro\source\repos\MetodosEstaticos(deClase)\15-Ejercicio\obj\Debug\net5.0\15-Ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\MetodosEstaticos(deClase)\15-Ejercicio\obj\Debug\net5.0\15-Ejercicio.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\MetodosEstaticos(deClase)\15-Ejercicio\obj\Debug\net5.0\15-Ejercicio.AssemblyInfo.cs
+C:\Users\pedro\source\repos\MetodosEstaticos(deClase)\15-Ejercicio\obj\Debug\net5.0\15-Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\MetodosEstaticos(deClase)\15-Ejercicio\obj\Debug\net5.0\15-Ejercicio.dll
+C:\Users\pedro\source\repos\MetodosEstaticos(deClase)\15-Ejercicio\obj\Debug\net5.0\ref\15-Ejercicio.dll
+C:\Users\pedro\source\repos\MetodosEstaticos(deClase)\15-Ejercicio\obj\Debug\net5.0\15-Ejercicio.pdb
+C:\Users\pedro\source\repos\MetodosEstaticos(deClase)\15-Ejercicio\obj\Debug\net5.0\15-Ejercicio.genruntimeconfig.cache
+C:\Users\pedro\source\repos\MetodosEstaticos(deClase)\15-Ejercicio\obj\Debug\net5.0\15-Ejercicio.csproj.AssemblyReference.cache

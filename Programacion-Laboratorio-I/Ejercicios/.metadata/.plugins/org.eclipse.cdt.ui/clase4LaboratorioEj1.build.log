@@ -1,0 +1,7 @@
+10:31:03 **** Rebuild of configuration Debug for project clase4LaboratorioEj1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\clase4LaboratorioEj1.o" "..\\src\\clase4LaboratorioEj1.c" 
+gcc -o clase4LaboratorioEj1.exe "src\\clase4LaboratorioEj1.o" 
+
+10:31:03 Build Finished. 0 errors, 0 warnings. (took 541ms)
+

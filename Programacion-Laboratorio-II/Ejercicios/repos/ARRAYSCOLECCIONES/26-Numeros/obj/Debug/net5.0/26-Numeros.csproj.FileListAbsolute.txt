@@ -1,0 +1,16 @@
+C:\Users\pedro\source\repos\ARRAYSCOLECCIONES\26-Numeros\bin\Debug\net5.0\26-Numeros.exe
+C:\Users\pedro\source\repos\ARRAYSCOLECCIONES\26-Numeros\bin\Debug\net5.0\26-Numeros.deps.json
+C:\Users\pedro\source\repos\ARRAYSCOLECCIONES\26-Numeros\bin\Debug\net5.0\26-Numeros.runtimeconfig.json
+C:\Users\pedro\source\repos\ARRAYSCOLECCIONES\26-Numeros\bin\Debug\net5.0\26-Numeros.runtimeconfig.dev.json
+C:\Users\pedro\source\repos\ARRAYSCOLECCIONES\26-Numeros\bin\Debug\net5.0\26-Numeros.dll
+C:\Users\pedro\source\repos\ARRAYSCOLECCIONES\26-Numeros\bin\Debug\net5.0\ref\26-Numeros.dll
+C:\Users\pedro\source\repos\ARRAYSCOLECCIONES\26-Numeros\bin\Debug\net5.0\26-Numeros.pdb
+C:\Users\pedro\source\repos\ARRAYSCOLECCIONES\26-Numeros\obj\Debug\net5.0\26-Numeros.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\ARRAYSCOLECCIONES\26-Numeros\obj\Debug\net5.0\26-Numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\ARRAYSCOLECCIONES\26-Numeros\obj\Debug\net5.0\26-Numeros.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\ARRAYSCOLECCIONES\26-Numeros\obj\Debug\net5.0\26-Numeros.AssemblyInfo.cs
+C:\Users\pedro\source\repos\ARRAYSCOLECCIONES\26-Numeros\obj\Debug\net5.0\26-Numeros.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\ARRAYSCOLECCIONES\26-Numeros\obj\Debug\net5.0\26-Numeros.dll
+C:\Users\pedro\source\repos\ARRAYSCOLECCIONES\26-Numeros\obj\Debug\net5.0\ref\26-Numeros.dll
+C:\Users\pedro\source\repos\ARRAYSCOLECCIONES\26-Numeros\obj\Debug\net5.0\26-Numeros.pdb
+C:\Users\pedro\source\repos\ARRAYSCOLECCIONES\26-Numeros\obj\Debug\net5.0\26-Numeros.genruntimeconfig.cache

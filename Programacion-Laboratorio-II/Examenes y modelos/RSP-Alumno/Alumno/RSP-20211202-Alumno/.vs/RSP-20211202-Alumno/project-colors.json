@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dea2b78e-17d6-4115-ae9f-a3071f0a3f6c": {
+      "ProjectGuid": "dea2b78e-17d6-4115-ae9f-a3071f0a3f6c",
+      "DisplayName": "RSP-20112021-Alumno",
+      "ColorIndex": 0
+    },
+    "7621b10a-486c-4263-8794-efa884d33df2": {
+      "ProjectGuid": "7621b10a-486c-4263-8794-efa884d33df2",
+      "DisplayName": "Entidades",
+      "ColorIndex": 1
+    },
+    "701b7417-133e-40ac-a079-229397a16c81": {
+      "ProjectGuid": "701b7417-133e-40ac-a079-229397a16c81",
+      "DisplayName": "BaseDeDatos",
+      "ColorIndex": 2
+    },
+    "fd0e96dc-ade9-4938-b643-92e77a8f7f05": {
+      "ProjectGuid": "fd0e96dc-ade9-4938-b643-92e77a8f7f05",
+      "DisplayName": "Excepciones",
+      "ColorIndex": 3
+    },
+    "942d77c1-abfe-4783-b49c-315ab76ccbfe": {
+      "ProjectGuid": "942d77c1-abfe-4783-b49c-315ab76ccbfe",
+      "DisplayName": "Archivos",
+      "ColorIndex": 4
+    },
+    "859997e1-9b59-4857-981b-a0e046152489": {
+      "ProjectGuid": "859997e1-9b59-4857-981b-a0e046152489",
+      "DisplayName": "Test",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "e129d0e4-6c46-4e07-9840-8abf9e110389": {
+      "ProjectGuid": "e129d0e4-6c46-4e07-9840-8abf9e110389",
+      "DisplayName": "Files",
+      "ColorIndex": 6
+    },
+    "91e0a8bf-4d21-4d9d-b28f-97f8447d9dab": {
+      "ProjectGuid": "91e0a8bf-4d21-4d9d-b28f-97f8447d9dab",
+      "DisplayName": "RSP-20112021-Alumno",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

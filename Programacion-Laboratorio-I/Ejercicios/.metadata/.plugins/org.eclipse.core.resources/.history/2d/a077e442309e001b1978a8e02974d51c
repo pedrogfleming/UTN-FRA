@@ -1,0 +1,51 @@
+/*
+ ============================================================================
+ Name        : testNumeros.c
+ Author      : Geraghty Fleming Pedro 1E
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+int casterNumero(int* valor);
+int factorial(long long int n);
+int main(void)
+{
+	setbuf(stdout,NULL);
+	long long int numero;
+	/*
+	INTENTE CASTEAR DE INT A LONG LONG INT, NO FUNCIONO
+	numero =  8223372036854775808;
+	printf(" %d es mi numero ",numero);
+	casterNumero(numero);
+	numero =  8223372036854775808;
+	printf("\n %lld es mi numero ",numero);
+	*/
+	scanf("\nIngrese numero entero\n",&numero);
+	printf("\n %lld es el numero ingresado",numero);
+	numero = factorial(numero);
+	printf("\n %lld es el factorial del numero ingresado\n",numero);
+
+
+	return EXIT_SUCCESS;
+}
+int casterNumero(int* valor)
+{
+	int numeroLocal;
+	numeroLocal = *valor;
+	numeroLocal= (long long int)numeroLocal/1;
+	*valor = numeroLocal;
+	return 0;
+}
+
+int factorial(long long int n)
+{
+	long long int resp;
+	if(n==1)
+	return 1;
+	resp=n* factorial(n-1);
+	return (resp);
+}

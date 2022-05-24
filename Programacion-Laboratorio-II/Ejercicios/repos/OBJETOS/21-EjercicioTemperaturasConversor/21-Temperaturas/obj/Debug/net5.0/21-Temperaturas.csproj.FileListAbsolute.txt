@@ -1,0 +1,16 @@
+C:\Users\pedro\source\repos\21-EjercicioTemperaturasConversor\21-Temperaturas\bin\Debug\net5.0\21-Temperaturas.exe
+C:\Users\pedro\source\repos\21-EjercicioTemperaturasConversor\21-Temperaturas\bin\Debug\net5.0\21-Temperaturas.deps.json
+C:\Users\pedro\source\repos\21-EjercicioTemperaturasConversor\21-Temperaturas\bin\Debug\net5.0\21-Temperaturas.runtimeconfig.json
+C:\Users\pedro\source\repos\21-EjercicioTemperaturasConversor\21-Temperaturas\bin\Debug\net5.0\21-Temperaturas.runtimeconfig.dev.json
+C:\Users\pedro\source\repos\21-EjercicioTemperaturasConversor\21-Temperaturas\bin\Debug\net5.0\21-Temperaturas.dll
+C:\Users\pedro\source\repos\21-EjercicioTemperaturasConversor\21-Temperaturas\bin\Debug\net5.0\ref\21-Temperaturas.dll
+C:\Users\pedro\source\repos\21-EjercicioTemperaturasConversor\21-Temperaturas\bin\Debug\net5.0\21-Temperaturas.pdb
+C:\Users\pedro\source\repos\21-EjercicioTemperaturasConversor\21-Temperaturas\obj\Debug\net5.0\21-Temperaturas.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\21-EjercicioTemperaturasConversor\21-Temperaturas\obj\Debug\net5.0\21-Temperaturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\21-EjercicioTemperaturasConversor\21-Temperaturas\obj\Debug\net5.0\21-Temperaturas.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\21-EjercicioTemperaturasConversor\21-Temperaturas\obj\Debug\net5.0\21-Temperaturas.AssemblyInfo.cs
+C:\Users\pedro\source\repos\21-EjercicioTemperaturasConversor\21-Temperaturas\obj\Debug\net5.0\21-Temperaturas.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\21-EjercicioTemperaturasConversor\21-Temperaturas\obj\Debug\net5.0\21-Temperaturas.dll
+C:\Users\pedro\source\repos\21-EjercicioTemperaturasConversor\21-Temperaturas\obj\Debug\net5.0\ref\21-Temperaturas.dll
+C:\Users\pedro\source\repos\21-EjercicioTemperaturasConversor\21-Temperaturas\obj\Debug\net5.0\21-Temperaturas.pdb
+C:\Users\pedro\source\repos\21-EjercicioTemperaturasConversor\21-Temperaturas\obj\Debug\net5.0\21-Temperaturas.genruntimeconfig.cache

@@ -1,0 +1,24 @@
+/*
+ ============================================================================
+ Name        : testNumeros.c
+ Author      : Geraghty Fleming Pedro 1E
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void)
+{
+	setbuf(stdout,NULL);
+	int numero;
+	numero =  8223372036854775808;
+	casteraNumero(numero);
+	printf(" %lld es mi numero ",numero);
+
+
+	return EXIT_SUCCESS;
+}

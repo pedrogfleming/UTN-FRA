@@ -1,0 +1,7 @@
+19:55:17 **** Incremental Build of configuration Debug for project clase3LaboratorioEj3.1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\clase3LaboratorioEj3.o" "..\\src\\clase3LaboratorioEj3.c" 
+gcc -o clase3LaboratorioEj3.1.exe "src\\clase3LaboratorioEj3.o" 
+
+19:55:18 Build Finished. 0 errors, 0 warnings. (took 390ms)
+

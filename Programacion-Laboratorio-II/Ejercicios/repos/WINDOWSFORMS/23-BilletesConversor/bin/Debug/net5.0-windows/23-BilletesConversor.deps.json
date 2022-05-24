@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "23-BilletesConversor/1.0.0": {
+        "runtime": {
+          "23-BilletesConversor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "23-BilletesConversor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

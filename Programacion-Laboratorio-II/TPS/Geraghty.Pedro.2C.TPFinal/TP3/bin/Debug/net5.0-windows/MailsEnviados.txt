@@ -1,0 +1,57 @@
+Dni: 98074835	Alumno: Cruz	 Miguel	ID: 2
+Dni: 82183244	Alumno: Lorenz	 Irma	ID: 3
+Dni: 70858336	Alumno: Letterman	 David	ID: 4
+Enviados el dia 21/11/2021
+Dni: 64849969	Alumno: Roberts	 Hugo	ID: 5
+Dni: 95080161	Alumno: Seinfeld	 Jerry	ID: 6
+Dni: 36323806	Alumno: Kennedy	 John	ID: 7
+Dni: 17512084	Alumno: Numbela	 Thiago	ID: 8
+Enviados el dia 21/11/2021
+Dni: 97478202	Alumno: Peron	 Isabel	ID: 9
+Dni: 55515082	Alumno: Lopez	 Daniel	ID: 10
+Dni: 73287319	Alumno: Penayo	 Isaac	ID: 11
+Dni: 30758655	Alumno: Valderrama	 Aurora	ID: 12
+Enviados el dia 21/11/2021
+Dni: 98074835	Alumno: Cruz	 Miguel	ID: 2
+Dni: 82183244	Alumno: Lorenz	 Irma	ID: 3
+Dni: 70858336	Alumno: Letterman	 David	ID: 4
+Enviados el dia 22/11/2021
+Mail enviados el dia 22/11/2021Con motivo de anunciar:
+
+Enviar comunicado a los alumnos sobre el nuevo curso: 
+Id: 1007
+Descripcion: Estadistica I
+Fecha inicio: 23/10/2019
+Fecha fin: 22/11/2021
+Es E-Learning: NO
+Cantidad de inscriptos: 0
+
+Dni: 98074835	Alumno: Cruz	 Miguel	ID: 2
+Dni: 82183244	Alumno: Lorenz	 Irma	ID: 3
+Dni: 70858336	Alumno: Letterman	 David	ID: 4
+
+Mail enviados el dia 22/11/2021Con motivo de anunciar:
+
+Enviar comunicado email a los alumnos del instituto sobre nuestros cursos
+Dni: 98074835	Alumno: Cruz	 Miguel	ID: 2
+Dni: 82183244	Alumno: Lorenz	 Irma	ID: 3
+
+Mail enviados el dia 22/11/2021Con motivo de anunciar:
+
+Enviar comunicado email a los alumnos del instituto sobre nuestros cursos
+Dni: 98074835	Alumno: Cruz	 Miguel	ID: 2
+Dni: 82183244	Alumno: Lorenz	 Irma	ID: 3
+Dni: 70858336	Alumno: Letterman	 David	ID: 4
+Dni: 64849969	Alumno: Roberts	 Hugo	ID: 5
+Dni: 95080161	Alumno: Seinfeld	 Jerry	ID: 6
+
+Mail enviados el dia 22/11/2021Con motivo de anunciar:
+
+Enviar comunicado email a los alumnos del instituto sobre nuestros cursos
+Dni: 36323806	Alumno: Kennedy	 John	ID: 7
+Dni: 17512084	Alumno: Numbela	 Thiago	ID: 8
+Dni: 97478202	Alumno: Peron	 Isabel	ID: 9
+Dni: 55515082	Alumno: Lopez	 Daniel	ID: 10
+Dni: 73287319	Alumno: Penayo	 Isaac	ID: 11
+Dni: 30758655	Alumno: Valderrama	 Aurora	ID: 12
+

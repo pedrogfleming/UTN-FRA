@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "50-Ejercicio", "50-Ejercicio\50-Ejercicio.csproj", "{A34F9354-2F7B-4564-A0AC-BA4E7494CC34}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entidades", "Entidades\Entidades.csproj", "{66E9C404-DFF4-4296-BA7B-C35D23573E57}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "52-BoligrafoLapiz", "52-BoligrafoLapiz\52-BoligrafoLapiz.csproj", "{B96EBCE1-AE66-4570-89B4-AFE9D6473FDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntidadesCentralita51", "EntidadesCentralita51\EntidadesCentralita51.csproj", "{7B59D976-FE70-44AD-A3B1-A93F34398843}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CentralitaForm", "CentralitaForm", "{E49904B7-FAA1-4C51-8228-D88CC87021A0}"
+	ProjectSection(SolutionItems) = preProject
+		..\POLIMORFISMO\FormFacturacion\FormFacturacion.csproj = ..\POLIMORFISMO\FormFacturacion\FormFacturacion.csproj
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "40-CentralitaPolimorfica", "..\POLIMORFISMO\39-CentralitaPolimorfica\40-CentralitaPolimorfica.csproj", "{6662372A-E291-423D-913F-A0AD9A47A7FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A34F9354-2F7B-4564-A0AC-BA4E7494CC34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A34F9354-2F7B-4564-A0AC-BA4E7494CC34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A34F9354-2F7B-4564-A0AC-BA4E7494CC34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A34F9354-2F7B-4564-A0AC-BA4E7494CC34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66E9C404-DFF4-4296-BA7B-C35D23573E57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66E9C404-DFF4-4296-BA7B-C35D23573E57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66E9C404-DFF4-4296-BA7B-C35D23573E57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66E9C404-DFF4-4296-BA7B-C35D23573E57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B96EBCE1-AE66-4570-89B4-AFE9D6473FDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B96EBCE1-AE66-4570-89B4-AFE9D6473FDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B96EBCE1-AE66-4570-89B4-AFE9D6473FDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B96EBCE1-AE66-4570-89B4-AFE9D6473FDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B59D976-FE70-44AD-A3B1-A93F34398843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B59D976-FE70-44AD-A3B1-A93F34398843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B59D976-FE70-44AD-A3B1-A93F34398843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B59D976-FE70-44AD-A3B1-A93F34398843}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6662372A-E291-423D-913F-A0AD9A47A7FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6662372A-E291-423D-913F-A0AD9A47A7FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6662372A-E291-423D-913F-A0AD9A47A7FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6662372A-E291-423D-913F-A0AD9A47A7FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6662372A-E291-423D-913F-A0AD9A47A7FC} = {E49904B7-FAA1-4C51-8228-D88CC87021A0}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF19E9B7-95A0-4828-B30D-9439C567EF4C}
+	EndGlobalSection
+EndGlobal

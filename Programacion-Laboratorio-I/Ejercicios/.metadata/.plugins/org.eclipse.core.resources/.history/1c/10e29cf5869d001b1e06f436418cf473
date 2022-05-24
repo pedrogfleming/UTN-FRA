@@ -1,0 +1,21 @@
+/*
+ ============================================================================
+ Name        : clase6LaboratorioEj1Ordenamiento.c
+ Author      : Geraghty Fleming Pedro 1E
+ Version     :	Ejercicio 6-1: Ordenamiento
+ Copyright   : Your copyright notice
+ Description :  Disponemos de dos variables numéricas (a y b).
+ 	 	 	 	 Realizar un algoritmo que permita el intercambio de valores de dichas variables.
+
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void)
+{
+	setbuf(stdin,NULL);
+
+	return EXIT_SUCCESS;
+}

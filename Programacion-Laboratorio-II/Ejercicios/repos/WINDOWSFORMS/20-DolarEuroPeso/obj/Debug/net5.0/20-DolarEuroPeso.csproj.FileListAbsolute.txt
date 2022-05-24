@@ -1,0 +1,16 @@
+C:\Users\pedro\source\repos\SOBRECARGA DE OPERADORES\20-DolarEuroPeso\bin\Debug\net5.0\20-DolarEuroPeso.exe
+C:\Users\pedro\source\repos\SOBRECARGA DE OPERADORES\20-DolarEuroPeso\bin\Debug\net5.0\20-DolarEuroPeso.deps.json
+C:\Users\pedro\source\repos\SOBRECARGA DE OPERADORES\20-DolarEuroPeso\bin\Debug\net5.0\20-DolarEuroPeso.runtimeconfig.json
+C:\Users\pedro\source\repos\SOBRECARGA DE OPERADORES\20-DolarEuroPeso\bin\Debug\net5.0\20-DolarEuroPeso.runtimeconfig.dev.json
+C:\Users\pedro\source\repos\SOBRECARGA DE OPERADORES\20-DolarEuroPeso\bin\Debug\net5.0\20-DolarEuroPeso.dll
+C:\Users\pedro\source\repos\SOBRECARGA DE OPERADORES\20-DolarEuroPeso\bin\Debug\net5.0\ref\20-DolarEuroPeso.dll
+C:\Users\pedro\source\repos\SOBRECARGA DE OPERADORES\20-DolarEuroPeso\bin\Debug\net5.0\20-DolarEuroPeso.pdb
+C:\Users\pedro\source\repos\SOBRECARGA DE OPERADORES\20-DolarEuroPeso\obj\Debug\net5.0\20-DolarEuroPeso.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\SOBRECARGA DE OPERADORES\20-DolarEuroPeso\obj\Debug\net5.0\20-DolarEuroPeso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\SOBRECARGA DE OPERADORES\20-DolarEuroPeso\obj\Debug\net5.0\20-DolarEuroPeso.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\SOBRECARGA DE OPERADORES\20-DolarEuroPeso\obj\Debug\net5.0\20-DolarEuroPeso.AssemblyInfo.cs
+C:\Users\pedro\source\repos\SOBRECARGA DE OPERADORES\20-DolarEuroPeso\obj\Debug\net5.0\20-DolarEuroPeso.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\SOBRECARGA DE OPERADORES\20-DolarEuroPeso\obj\Debug\net5.0\20-DolarEuroPeso.dll
+C:\Users\pedro\source\repos\SOBRECARGA DE OPERADORES\20-DolarEuroPeso\obj\Debug\net5.0\ref\20-DolarEuroPeso.dll
+C:\Users\pedro\source\repos\SOBRECARGA DE OPERADORES\20-DolarEuroPeso\obj\Debug\net5.0\20-DolarEuroPeso.pdb
+C:\Users\pedro\source\repos\SOBRECARGA DE OPERADORES\20-DolarEuroPeso\obj\Debug\net5.0\20-DolarEuroPeso.genruntimeconfig.cache

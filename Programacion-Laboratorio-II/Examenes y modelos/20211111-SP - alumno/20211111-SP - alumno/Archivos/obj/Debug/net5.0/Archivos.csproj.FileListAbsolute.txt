@@ -1,0 +1,15 @@
+C:\Users\pedro\source\repos\20211111-SP - alumno\20211111-SP - alumno\Archivos\bin\Debug\net5.0\Archivos.deps.json
+C:\Users\pedro\source\repos\20211111-SP - alumno\20211111-SP - alumno\Archivos\bin\Debug\net5.0\Archivos.dll
+C:\Users\pedro\source\repos\20211111-SP - alumno\20211111-SP - alumno\Archivos\bin\Debug\net5.0\ref\Archivos.dll
+C:\Users\pedro\source\repos\20211111-SP - alumno\20211111-SP - alumno\Archivos\bin\Debug\net5.0\Archivos.pdb
+C:\Users\pedro\source\repos\20211111-SP - alumno\20211111-SP - alumno\Archivos\bin\Debug\net5.0\Entidades.dll
+C:\Users\pedro\source\repos\20211111-SP - alumno\20211111-SP - alumno\Archivos\bin\Debug\net5.0\Entidades.pdb
+C:\Users\pedro\source\repos\20211111-SP - alumno\20211111-SP - alumno\Archivos\obj\Debug\net5.0\Archivos.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\20211111-SP - alumno\20211111-SP - alumno\Archivos\obj\Debug\net5.0\Archivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\20211111-SP - alumno\20211111-SP - alumno\Archivos\obj\Debug\net5.0\Archivos.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\20211111-SP - alumno\20211111-SP - alumno\Archivos\obj\Debug\net5.0\Archivos.AssemblyInfo.cs
+C:\Users\pedro\source\repos\20211111-SP - alumno\20211111-SP - alumno\Archivos\obj\Debug\net5.0\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\20211111-SP - alumno\20211111-SP - alumno\Archivos\obj\Debug\net5.0\Archivos.csproj.CopyComplete
+C:\Users\pedro\source\repos\20211111-SP - alumno\20211111-SP - alumno\Archivos\obj\Debug\net5.0\Archivos.dll
+C:\Users\pedro\source\repos\20211111-SP - alumno\20211111-SP - alumno\Archivos\obj\Debug\net5.0\ref\Archivos.dll
+C:\Users\pedro\source\repos\20211111-SP - alumno\20211111-SP - alumno\Archivos\obj\Debug\net5.0\Archivos.pdb

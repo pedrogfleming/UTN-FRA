@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "4AhfJw25xHTr+lClPiHU/zvQGb5gtQduEDSfaGMyUqhs4uJrEOZcPHLPxPZu3exYn5OZEv3gJ8lzwd+u25vrzA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\pedro\\source\\repos\\0-CONCEPTOS BASICOS\\0-CONCEPTOS BASICOS\\0-CONCEPTOS BASICOS.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "No se encuentra información del proyecto para \"C:\\Users\\pedro\\source\\repos\\0-CONCEPTOS BASICOS\\ClassLibrary1\\ClassLibrary1.csproj\". Si está usando Visual Studio, puede deberse a que el proyecto no se haya cargado o no forme parte de la solución actual, por lo que debe ejecutar una restauración desde la línea de comandos. De lo contrario, puede que el archivo del proyecto no sea válido o que falten destinos necesarios para la restauración.",
+      "libraryId": "C:\\Users\\pedro\\source\\repos\\0-CONCEPTOS BASICOS\\ClassLibrary1\\ClassLibrary1.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\31-AtencionCliente\bin\Debug\net5.0\31-AtencionCliente.exe
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\31-AtencionCliente\bin\Debug\net5.0\31-AtencionCliente.deps.json
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\31-AtencionCliente\bin\Debug\net5.0\31-AtencionCliente.runtimeconfig.json
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\31-AtencionCliente\bin\Debug\net5.0\31-AtencionCliente.runtimeconfig.dev.json
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\31-AtencionCliente\bin\Debug\net5.0\31-AtencionCliente.dll
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\31-AtencionCliente\bin\Debug\net5.0\ref\31-AtencionCliente.dll
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\31-AtencionCliente\bin\Debug\net5.0\31-AtencionCliente.pdb
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\31-AtencionCliente\obj\Debug\net5.0\31-AtencionCliente.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\31-AtencionCliente\obj\Debug\net5.0\31-AtencionCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\31-AtencionCliente\obj\Debug\net5.0\31-AtencionCliente.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\31-AtencionCliente\obj\Debug\net5.0\31-AtencionCliente.AssemblyInfo.cs
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\31-AtencionCliente\obj\Debug\net5.0\31-AtencionCliente.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\31-AtencionCliente\obj\Debug\net5.0\31-AtencionCliente.dll
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\31-AtencionCliente\obj\Debug\net5.0\ref\31-AtencionCliente.dll
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\31-AtencionCliente\obj\Debug\net5.0\31-AtencionCliente.pdb
+C:\Users\pedro\source\repos\ENCAPSULAMIENTO\31-AtencionCliente\obj\Debug\net5.0\31-AtencionCliente.genruntimeconfig.cache

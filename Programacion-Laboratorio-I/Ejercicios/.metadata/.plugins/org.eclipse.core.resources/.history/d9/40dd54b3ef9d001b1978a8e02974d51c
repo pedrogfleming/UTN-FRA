@@ -1,0 +1,31 @@
+/*
+ ============================================================================
+ Name        : testNumeros.c
+ Author      : Geraghty Fleming Pedro 1E
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+int casterNumero(int* valor);
+int main(void)
+{
+	setbuf(stdout,NULL);
+	int numero;
+	numero =  8223372036854775808;
+	casterNumero(numero);
+	printf(" %lld es mi numero ",numero);
+
+
+	return EXIT_SUCCESS;
+}
+int casterNumero(int* valor)
+{
+	int numeroLocal;
+	numeroLocal = *valor;
+	numeroLocal= (long long int)numeroLocal/1;
+	*valor = numeroLocal;
+}

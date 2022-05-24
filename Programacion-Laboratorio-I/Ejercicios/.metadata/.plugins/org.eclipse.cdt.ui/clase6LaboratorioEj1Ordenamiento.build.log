@@ -1,0 +1,5 @@
+09:52:25 **** Clean-only build of configuration Debug for project clase6LaboratorioEj1Ordenamiento ****
+rm -rf src/clase6LaboratorioEj1Ordenamiento.o clase6LaboratorioEj1Ordenamiento.exe src/clase6LaboratorioEj1Ordenamiento.d 
+
+09:52:26 Build Finished. 0 errors, 0 warnings. (took 160ms)
+

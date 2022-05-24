@@ -1,0 +1,5 @@
+C:\Users\pedro\source\repos\GENERICOS\47-Torneo\obj\Debug\net5.0\47-Torneo.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\GENERICOS\47-Torneo\obj\Debug\net5.0\47-Torneo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\GENERICOS\47-Torneo\obj\Debug\net5.0\47-Torneo.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\GENERICOS\47-Torneo\obj\Debug\net5.0\47-Torneo.AssemblyInfo.cs
+C:\Users\pedro\source\repos\GENERICOS\47-Torneo\obj\Debug\net5.0\47-Torneo.csproj.CoreCompileInputs.cache

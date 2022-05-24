@@ -1,0 +1,12 @@
+C:\Users\pedro\source\repos\MPComiqueriaApp\ComiqueriaLogic\bin\Debug\net5.0\ComiqueriaLogic.deps.json
+C:\Users\pedro\source\repos\MPComiqueriaApp\ComiqueriaLogic\bin\Debug\net5.0\ComiqueriaLogic.dll
+C:\Users\pedro\source\repos\MPComiqueriaApp\ComiqueriaLogic\bin\Debug\net5.0\ref\ComiqueriaLogic.dll
+C:\Users\pedro\source\repos\MPComiqueriaApp\ComiqueriaLogic\bin\Debug\net5.0\ComiqueriaLogic.pdb
+C:\Users\pedro\source\repos\MPComiqueriaApp\ComiqueriaLogic\obj\Debug\net5.0\ComiqueriaLogic.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\MPComiqueriaApp\ComiqueriaLogic\obj\Debug\net5.0\ComiqueriaLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\MPComiqueriaApp\ComiqueriaLogic\obj\Debug\net5.0\ComiqueriaLogic.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\MPComiqueriaApp\ComiqueriaLogic\obj\Debug\net5.0\ComiqueriaLogic.AssemblyInfo.cs
+C:\Users\pedro\source\repos\MPComiqueriaApp\ComiqueriaLogic\obj\Debug\net5.0\ComiqueriaLogic.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\MPComiqueriaApp\ComiqueriaLogic\obj\Debug\net5.0\ComiqueriaLogic.dll
+C:\Users\pedro\source\repos\MPComiqueriaApp\ComiqueriaLogic\obj\Debug\net5.0\ref\ComiqueriaLogic.dll
+C:\Users\pedro\source\repos\MPComiqueriaApp\ComiqueriaLogic\obj\Debug\net5.0\ComiqueriaLogic.pdb

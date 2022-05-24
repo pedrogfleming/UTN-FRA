@@ -1,0 +1,5 @@
+Va bien,pero agregar algo más de analisis de datos.
+
+Podría ser mostrar estadística (cantidad, porcentajes) de las materias según edad, o qué cursos eligen más según género. 
+Analizar los datos cargados, no solo filtrarlos y mostrar listas.
+VerificarInformePorFechaInicio_Ok no pasa correctamente- Eliminado

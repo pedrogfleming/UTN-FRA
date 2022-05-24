@@ -1,0 +1,8 @@
+J:\Visual UTN 2019\Examenes\20201203\Audio\bin\Debug\Audio.dll
+J:\Visual UTN 2019\Examenes\20201203\Audio\bin\Debug\Audio.pdb
+J:\Visual UTN 2019\Examenes\20201203\Audio\obj\Debug\Audio.csprojAssemblyReference.cache
+J:\Visual UTN 2019\Examenes\20201203\Audio\obj\Debug\Interop.WMPLib.dll
+J:\Visual UTN 2019\Examenes\20201203\Audio\obj\Debug\Audio.csproj.ResolveComReference.cache
+J:\Visual UTN 2019\Examenes\20201203\Audio\obj\Debug\Audio.csproj.CoreCompileInputs.cache
+J:\Visual UTN 2019\Examenes\20201203\Audio\obj\Debug\Audio.dll
+J:\Visual UTN 2019\Examenes\20201203\Audio\obj\Debug\Audio.pdb

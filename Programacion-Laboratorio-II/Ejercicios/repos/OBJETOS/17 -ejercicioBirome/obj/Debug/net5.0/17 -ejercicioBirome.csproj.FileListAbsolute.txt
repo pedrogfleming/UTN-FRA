@@ -1,0 +1,19 @@
+C:\Users\pedro\source\repos\Objetos\17 -ejercicioBirome\bin\Debug\net5.0\17 -ejercicioBirome.exe
+C:\Users\pedro\source\repos\Objetos\17 -ejercicioBirome\bin\Debug\net5.0\17 -ejercicioBirome.deps.json
+C:\Users\pedro\source\repos\Objetos\17 -ejercicioBirome\bin\Debug\net5.0\17 -ejercicioBirome.runtimeconfig.json
+C:\Users\pedro\source\repos\Objetos\17 -ejercicioBirome\bin\Debug\net5.0\17 -ejercicioBirome.runtimeconfig.dev.json
+C:\Users\pedro\source\repos\Objetos\17 -ejercicioBirome\bin\Debug\net5.0\17 -ejercicioBirome.dll
+C:\Users\pedro\source\repos\Objetos\17 -ejercicioBirome\bin\Debug\net5.0\ref\17 -ejercicioBirome.dll
+C:\Users\pedro\source\repos\Objetos\17 -ejercicioBirome\bin\Debug\net5.0\17 -ejercicioBirome.pdb
+C:\Users\pedro\source\repos\Objetos\17 -ejercicioBirome\bin\Debug\net5.0\Entidades.dll
+C:\Users\pedro\source\repos\Objetos\17 -ejercicioBirome\bin\Debug\net5.0\Entidades.pdb
+C:\Users\pedro\source\repos\Objetos\17 -ejercicioBirome\obj\Debug\net5.0\17 -ejercicioBirome.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\Objetos\17 -ejercicioBirome\obj\Debug\net5.0\17 -ejercicioBirome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\Objetos\17 -ejercicioBirome\obj\Debug\net5.0\17 -ejercicioBirome.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\Objetos\17 -ejercicioBirome\obj\Debug\net5.0\17 -ejercicioBirome.AssemblyInfo.cs
+C:\Users\pedro\source\repos\Objetos\17 -ejercicioBirome\obj\Debug\net5.0\17 -ejercicioBirome.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\Objetos\17 -ejercicioBirome\obj\Debug\net5.0\17 -ejercicioBirome.csproj.CopyComplete
+C:\Users\pedro\source\repos\Objetos\17 -ejercicioBirome\obj\Debug\net5.0\17 -ejercicioBirome.dll
+C:\Users\pedro\source\repos\Objetos\17 -ejercicioBirome\obj\Debug\net5.0\ref\17 -ejercicioBirome.dll
+C:\Users\pedro\source\repos\Objetos\17 -ejercicioBirome\obj\Debug\net5.0\17 -ejercicioBirome.pdb
+C:\Users\pedro\source\repos\Objetos\17 -ejercicioBirome\obj\Debug\net5.0\17 -ejercicioBirome.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\pedro\source\repos\Repaso\EjercicioIntegrador\bin\Debug\net5.0\EjercicioIntegrador.exe
+C:\Users\pedro\source\repos\Repaso\EjercicioIntegrador\bin\Debug\net5.0\EjercicioIntegrador.deps.json
+C:\Users\pedro\source\repos\Repaso\EjercicioIntegrador\bin\Debug\net5.0\EjercicioIntegrador.runtimeconfig.json
+C:\Users\pedro\source\repos\Repaso\EjercicioIntegrador\bin\Debug\net5.0\EjercicioIntegrador.runtimeconfig.dev.json
+C:\Users\pedro\source\repos\Repaso\EjercicioIntegrador\bin\Debug\net5.0\EjercicioIntegrador.dll
+C:\Users\pedro\source\repos\Repaso\EjercicioIntegrador\bin\Debug\net5.0\ref\EjercicioIntegrador.dll
+C:\Users\pedro\source\repos\Repaso\EjercicioIntegrador\bin\Debug\net5.0\EjercicioIntegrador.pdb
+C:\Users\pedro\source\repos\Repaso\EjercicioIntegrador\obj\Debug\net5.0\EjercicioIntegrador.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\Repaso\EjercicioIntegrador\obj\Debug\net5.0\EjercicioIntegrador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\Repaso\EjercicioIntegrador\obj\Debug\net5.0\EjercicioIntegrador.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\Repaso\EjercicioIntegrador\obj\Debug\net5.0\EjercicioIntegrador.AssemblyInfo.cs
+C:\Users\pedro\source\repos\Repaso\EjercicioIntegrador\obj\Debug\net5.0\EjercicioIntegrador.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\Repaso\EjercicioIntegrador\obj\Debug\net5.0\EjercicioIntegrador.dll
+C:\Users\pedro\source\repos\Repaso\EjercicioIntegrador\obj\Debug\net5.0\ref\EjercicioIntegrador.dll
+C:\Users\pedro\source\repos\Repaso\EjercicioIntegrador\obj\Debug\net5.0\EjercicioIntegrador.pdb
+C:\Users\pedro\source\repos\Repaso\EjercicioIntegrador\obj\Debug\net5.0\EjercicioIntegrador.genruntimeconfig.cache

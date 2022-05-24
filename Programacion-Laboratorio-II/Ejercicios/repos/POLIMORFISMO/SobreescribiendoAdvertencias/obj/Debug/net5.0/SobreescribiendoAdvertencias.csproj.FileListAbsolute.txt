@@ -1,0 +1,16 @@
+C:\Users\pedro\source\repos\POLIMORFISMO\SobreescribiendoAdvertencias\obj\Debug\net5.0\SobreescribiendoAdvertencias.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\POLIMORFISMO\SobreescribiendoAdvertencias\obj\Debug\net5.0\SobreescribiendoAdvertencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\POLIMORFISMO\SobreescribiendoAdvertencias\obj\Debug\net5.0\SobreescribiendoAdvertencias.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\POLIMORFISMO\SobreescribiendoAdvertencias\obj\Debug\net5.0\SobreescribiendoAdvertencias.AssemblyInfo.cs
+C:\Users\pedro\source\repos\POLIMORFISMO\SobreescribiendoAdvertencias\obj\Debug\net5.0\SobreescribiendoAdvertencias.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\POLIMORFISMO\SobreescribiendoAdvertencias\bin\Debug\net5.0\SobreescribiendoAdvertencias.exe
+C:\Users\pedro\source\repos\POLIMORFISMO\SobreescribiendoAdvertencias\bin\Debug\net5.0\SobreescribiendoAdvertencias.deps.json
+C:\Users\pedro\source\repos\POLIMORFISMO\SobreescribiendoAdvertencias\bin\Debug\net5.0\SobreescribiendoAdvertencias.runtimeconfig.json
+C:\Users\pedro\source\repos\POLIMORFISMO\SobreescribiendoAdvertencias\bin\Debug\net5.0\SobreescribiendoAdvertencias.runtimeconfig.dev.json
+C:\Users\pedro\source\repos\POLIMORFISMO\SobreescribiendoAdvertencias\bin\Debug\net5.0\SobreescribiendoAdvertencias.dll
+C:\Users\pedro\source\repos\POLIMORFISMO\SobreescribiendoAdvertencias\bin\Debug\net5.0\ref\SobreescribiendoAdvertencias.dll
+C:\Users\pedro\source\repos\POLIMORFISMO\SobreescribiendoAdvertencias\bin\Debug\net5.0\SobreescribiendoAdvertencias.pdb
+C:\Users\pedro\source\repos\POLIMORFISMO\SobreescribiendoAdvertencias\obj\Debug\net5.0\SobreescribiendoAdvertencias.dll
+C:\Users\pedro\source\repos\POLIMORFISMO\SobreescribiendoAdvertencias\obj\Debug\net5.0\ref\SobreescribiendoAdvertencias.dll
+C:\Users\pedro\source\repos\POLIMORFISMO\SobreescribiendoAdvertencias\obj\Debug\net5.0\SobreescribiendoAdvertencias.pdb
+C:\Users\pedro\source\repos\POLIMORFISMO\SobreescribiendoAdvertencias\obj\Debug\net5.0\SobreescribiendoAdvertencias.genruntimeconfig.cache

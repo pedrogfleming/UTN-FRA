@@ -1,0 +1,16 @@
+C:\Users\pedro\source\repos\WINDOWSFORMS\20-DolarEuroPeso\bin\Debug\net5.0\Moneda.exe
+C:\Users\pedro\source\repos\WINDOWSFORMS\20-DolarEuroPeso\bin\Debug\net5.0\Moneda.deps.json
+C:\Users\pedro\source\repos\WINDOWSFORMS\20-DolarEuroPeso\bin\Debug\net5.0\Moneda.runtimeconfig.json
+C:\Users\pedro\source\repos\WINDOWSFORMS\20-DolarEuroPeso\bin\Debug\net5.0\Moneda.runtimeconfig.dev.json
+C:\Users\pedro\source\repos\WINDOWSFORMS\20-DolarEuroPeso\bin\Debug\net5.0\Moneda.dll
+C:\Users\pedro\source\repos\WINDOWSFORMS\20-DolarEuroPeso\bin\Debug\net5.0\ref\Moneda.dll
+C:\Users\pedro\source\repos\WINDOWSFORMS\20-DolarEuroPeso\bin\Debug\net5.0\Moneda.pdb
+C:\Users\pedro\source\repos\WINDOWSFORMS\20-DolarEuroPeso\obj\Debug\net5.0\Moneda.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\WINDOWSFORMS\20-DolarEuroPeso\obj\Debug\net5.0\Moneda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\WINDOWSFORMS\20-DolarEuroPeso\obj\Debug\net5.0\Moneda.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\WINDOWSFORMS\20-DolarEuroPeso\obj\Debug\net5.0\Moneda.AssemblyInfo.cs
+C:\Users\pedro\source\repos\WINDOWSFORMS\20-DolarEuroPeso\obj\Debug\net5.0\Moneda.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\WINDOWSFORMS\20-DolarEuroPeso\obj\Debug\net5.0\Moneda.dll
+C:\Users\pedro\source\repos\WINDOWSFORMS\20-DolarEuroPeso\obj\Debug\net5.0\ref\Moneda.dll
+C:\Users\pedro\source\repos\WINDOWSFORMS\20-DolarEuroPeso\obj\Debug\net5.0\Moneda.pdb
+C:\Users\pedro\source\repos\WINDOWSFORMS\20-DolarEuroPeso\obj\Debug\net5.0\Moneda.genruntimeconfig.cache

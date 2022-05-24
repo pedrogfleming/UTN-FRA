@@ -1,0 +1,12 @@
+C:\Users\pedro\source\repos\MPComiqueria2Parcial\ComiqueriaApp\SQLConexiones\bin\Debug\net5.0\SQLConexiones.deps.json
+C:\Users\pedro\source\repos\MPComiqueria2Parcial\ComiqueriaApp\SQLConexiones\bin\Debug\net5.0\SQLConexiones.dll
+C:\Users\pedro\source\repos\MPComiqueria2Parcial\ComiqueriaApp\SQLConexiones\bin\Debug\net5.0\ref\SQLConexiones.dll
+C:\Users\pedro\source\repos\MPComiqueria2Parcial\ComiqueriaApp\SQLConexiones\bin\Debug\net5.0\SQLConexiones.pdb
+C:\Users\pedro\source\repos\MPComiqueria2Parcial\ComiqueriaApp\SQLConexiones\obj\Debug\net5.0\SQLConexiones.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\MPComiqueria2Parcial\ComiqueriaApp\SQLConexiones\obj\Debug\net5.0\SQLConexiones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\MPComiqueria2Parcial\ComiqueriaApp\SQLConexiones\obj\Debug\net5.0\SQLConexiones.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\MPComiqueria2Parcial\ComiqueriaApp\SQLConexiones\obj\Debug\net5.0\SQLConexiones.AssemblyInfo.cs
+C:\Users\pedro\source\repos\MPComiqueria2Parcial\ComiqueriaApp\SQLConexiones\obj\Debug\net5.0\SQLConexiones.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\MPComiqueria2Parcial\ComiqueriaApp\SQLConexiones\obj\Debug\net5.0\SQLConexiones.dll
+C:\Users\pedro\source\repos\MPComiqueria2Parcial\ComiqueriaApp\SQLConexiones\obj\Debug\net5.0\ref\SQLConexiones.dll
+C:\Users\pedro\source\repos\MPComiqueria2Parcial\ComiqueriaApp\SQLConexiones\obj\Debug\net5.0\SQLConexiones.pdb

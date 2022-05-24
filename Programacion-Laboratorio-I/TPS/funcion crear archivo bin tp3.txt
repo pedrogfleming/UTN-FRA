@@ -1,0 +1,15 @@
+            	binAux = fopen("dataB.bin","wb");
+				for (int i = 0; i < ll_len(listaEmpleados); i++)
+				{
+					Employee* empleadoMostrar = (Employee*)ll_get(listaEmpleados, i);
+					int cantidadEscrita = fwrite(empleadoMostrar,sizeof(Employee),1,binAux);
+					if(cantidadEscrita == 1)
+					{
+						printf("\nUN EMPLEADO ADENTRO!!!");
+					}
+					else
+					{
+						printf("\nNo pudo ");
+					}
+				}//FIN FOR
+            	fclose(binAux);

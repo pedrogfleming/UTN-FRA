@@ -1,0 +1,12 @@
+C:\Users\pedro\source\repos\MPDispositivo\SistemaOperativo\bin\Debug\net5.0\SistemaOperativo.deps.json
+C:\Users\pedro\source\repos\MPDispositivo\SistemaOperativo\bin\Debug\net5.0\SistemaOperativo.dll
+C:\Users\pedro\source\repos\MPDispositivo\SistemaOperativo\bin\Debug\net5.0\ref\SistemaOperativo.dll
+C:\Users\pedro\source\repos\MPDispositivo\SistemaOperativo\bin\Debug\net5.0\SistemaOperativo.pdb
+C:\Users\pedro\source\repos\MPDispositivo\SistemaOperativo\obj\Debug\net5.0\SistemaOperativo.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\MPDispositivo\SistemaOperativo\obj\Debug\net5.0\SistemaOperativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\MPDispositivo\SistemaOperativo\obj\Debug\net5.0\SistemaOperativo.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\MPDispositivo\SistemaOperativo\obj\Debug\net5.0\SistemaOperativo.AssemblyInfo.cs
+C:\Users\pedro\source\repos\MPDispositivo\SistemaOperativo\obj\Debug\net5.0\SistemaOperativo.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\MPDispositivo\SistemaOperativo\obj\Debug\net5.0\SistemaOperativo.dll
+C:\Users\pedro\source\repos\MPDispositivo\SistemaOperativo\obj\Debug\net5.0\ref\SistemaOperativo.dll
+C:\Users\pedro\source\repos\MPDispositivo\SistemaOperativo\obj\Debug\net5.0\SistemaOperativo.pdb

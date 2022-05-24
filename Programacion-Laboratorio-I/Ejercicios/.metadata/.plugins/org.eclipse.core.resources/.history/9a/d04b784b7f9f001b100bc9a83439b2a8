@@ -1,0 +1,49 @@
+/*
+ ============================================================================
+ Name        : testFactorial.c
+ Author      : Geraghty Fleming Pedro 1E
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+int factorial(int numero);
+long int auxiliarFactorial(int* punteroNumero);
+
+int main(void)
+{
+	setbuf(stdout,NULL);
+	int numero;
+	int long resultadoFactorial;
+	numero = 10;
+	resultadoFactorial = factorial(numero);
+	printf("El factorial de %d! es: %d",numero,resultadoFactorial);
+
+	return EXIT_SUCCESS;
+}
+int factorial(int numero)
+{
+	int ret;
+	if(numero==1 || numero ==0)
+	{
+		return 1;//Cuando el resultado de la operacion sea 1, se ha terminado de calcular el factorial
+		auxiliarFactorial(numero);
+
+	}
+	ret=numero* factorial(numero-1);
+
+	return ret;//continua factoreando
+}
+long int auxiliarFactorial(int* punteroNumero)
+{
+	if(punteroNumero != NULL)
+	{
+	int long numeroLocal;
+	numeroLocal = *punteroNumero;
+	}
+	return 0;
+
+}

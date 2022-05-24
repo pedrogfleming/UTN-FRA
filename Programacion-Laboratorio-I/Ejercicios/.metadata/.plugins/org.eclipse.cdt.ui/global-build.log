@@ -1,0 +1,248 @@
+21:10:06 **** Incremental Build of configuration Debug for project clase7LaboratorioEj1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\clase7LaboratorioEj1.o" "..\\src\\clase7LaboratorioEj1.c" 
+..\src\clase7LaboratorioEj1.c: In function 'main':
+..\src\clase7LaboratorioEj1.c:44:20: error: expected ')' before ';' token
+   tolower(nombre[i];
+                    ^
+..\src\clase7LaboratorioEj1.c:44:3: warning: statement with no effect [-Wunused-value]
+   tolower(nombre[i];
+   ^~~~~~~~~~~~~~~~~~
+  }
+  ~ 
+..\src\clase7LaboratorioEj1.c:45:2: error: expected ';' before '}' token
+  }
+  ^
+..\src\clase7LaboratorioEj1.c:30:6: warning: unused variable 'j' [-Wunused-variable]
+  int j;
+      ^
+..\src\clase7LaboratorioEj1.c:28:7: warning: unused variable 'nombreApellido' [-Wunused-variable]
+  char nombreApellido [MAX];
+       ^~~~~~~~~~~~~~
+21:10:24 **** Incremental Build of configuration Debug for project clase7LaboratorioEj1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\clase7LaboratorioEj1.o" "..\\src\\clase7LaboratorioEj1.c" 
+..\src\clase7LaboratorioEj1.c: In function 'main':
+..\src\clase7LaboratorioEj1.c:44:3: warning: statement with no effect [-Wunused-value]
+   tolower(nombre[i]);
+   ^~~~~~~~~~~~~~~~~~
+..\src\clase7LaboratorioEj1.c:30:6: warning: unused variable 'j' [-Wunused-variable]
+  int j;
+      ^
+..\src\clase7LaboratorioEj1.c:28:7: warning: unused variable 'nombreApellido' [-Wunused-variable]
+  char nombreApellido [MAX];
+       ^~~~~~~~~~~~~~
+gcc -o clase7LaboratorioEj1.exe "src\\clase7LaboratorioEj1.o" 
+Info: Nothing to build for clase7LaboratorioTest
+21:12:41 **** Incremental Build of configuration Debug for project clase7LaboratorioEj1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\clase7LaboratorioEj1.o" "..\\src\\clase7LaboratorioEj1.c" 
+..\src\clase7LaboratorioEj1.c: In function 'main':
+..\src\clase7LaboratorioEj1.c:44:3: warning: statement with no effect [-Wunused-value]
+   tolower(nombre[i]);
+   ^~~~~~~~~~~~~~~~~~
+..\src\clase7LaboratorioEj1.c:45:3: warning: statement with no effect [-Wunused-value]
+   tolower(apellido[i]);
+   ^~~~~~~~~~~~~~~~~~~~
+..\src\clase7LaboratorioEj1.c:30:6: warning: unused variable 'j' [-Wunused-variable]
+  int j;
+      ^
+..\src\clase7LaboratorioEj1.c:28:7: warning: unused variable 'nombreApellido' [-Wunused-variable]
+  char nombreApellido [MAX];
+       ^~~~~~~~~~~~~~
+gcc -o clase7LaboratorioEj1.exe "src\\clase7LaboratorioEj1.o" 
+Info: Nothing to build for clase7LaboratorioTest
+21:12:55 **** Incremental Build of configuration Debug for project clase7LaboratorioEj1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\clase7LaboratorioEj1.o" "..\\src\\clase7LaboratorioEj1.c" 
+..\src\clase7LaboratorioEj1.c: In function 'main':
+..\src\clase7LaboratorioEj1.c:44:3: warning: statement with no effect [-Wunused-value]
+   tolower(nombre[i]);
+   ^~~~~~~~~~~~~~~~~~
+..\src\clase7LaboratorioEj1.c:45:3: warning: statement with no effect [-Wunused-value]
+   tolower(apellido[i]);
+   ^~~~~~~~~~~~~~~~~~~~
+..\src\clase7LaboratorioEj1.c:28:7: warning: unused variable 'nombreApellido' [-Wunused-variable]
+  char nombreApellido [MAX];
+       ^~~~~~~~~~~~~~
+gcc -o clase7LaboratorioEj1.exe "src\\clase7LaboratorioEj1.o" 
+Info: Nothing to build for clase7LaboratorioTest
+21:16:56 **** Incremental Build of configuration Debug for project clase7LaboratorioEj1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\clase7LaboratorioEj1.o" "..\\src\\clase7LaboratorioEj1.c" 
+..\src\clase7LaboratorioEj1.c: In function 'main':
+..\src\clase7LaboratorioEj1.c:44:3: warning: statement with no effect [-Wunused-value]
+   tolower(nombre[i]);
+   ^~~~~~~~~~~~~~~~~~
+..\src\clase7LaboratorioEj1.c:45:3: warning: statement with no effect [-Wunused-value]
+   tolower(apellido[i]);
+   ^~~~~~~~~~~~~~~~~~~~
+..\src\clase7LaboratorioEj1.c:48:2: warning: statement with no effect [-Wunused-value]
+  toupper(nombre[0]);
+  ^~~~~~~~~~~~~~~~~~
+..\src\clase7LaboratorioEj1.c:49:2: warning: statement with no effect [-Wunused-value]
+  toupper(apellido[0]);
+  ^~~~~~~~~~~~~~~~~~~~
+..\src\clase7LaboratorioEj1.c:28:7: warning: unused variable 'nombreApellido' [-Wunused-variable]
+  char nombreApellido [MAX];
+       ^~~~~~~~~~~~~~
+gcc -o clase7LaboratorioEj1.exe "src\\clase7LaboratorioEj1.o" 
+Info: Nothing to build for clase7LaboratorioTest
+Info: Nothing to build for clase7LaboratorioEj1
+21:17:30 **** Incremental Build of configuration Debug for project clase7LaboratorioEj1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\clase7LaboratorioEj1.o" "..\\src\\clase7LaboratorioEj1.c" 
+..\src\clase7LaboratorioEj1.c: In function 'main':
+..\src\clase7LaboratorioEj1.c:44:3: warning: statement with no effect [-Wunused-value]
+   tolower(nombre[i]);
+   ^~~~~~~~~~~~~~~~~~
+..\src\clase7LaboratorioEj1.c:45:3: warning: statement with no effect [-Wunused-value]
+   tolower(apellido[i]);
+   ^~~~~~~~~~~~~~~~~~~~
+..\src\clase7LaboratorioEj1.c:48:2: warning: statement with no effect [-Wunused-value]
+  toupper(nombre[0]);
+  ^~~~~~~~~~~~~~~~~~
+..\src\clase7LaboratorioEj1.c:49:2: warning: statement with no effect [-Wunused-value]
+  toupper(apellido[0]);
+  ^~~~~~~~~~~~~~~~~~~~
+..\src\clase7LaboratorioEj1.c:28:7: warning: unused variable 'nombreApellido' [-Wunused-variable]
+  char nombreApellido [MAX];
+       ^~~~~~~~~~~~~~
+gcc -o clase7LaboratorioEj1.exe "src\\clase7LaboratorioEj1.o" 
+Info: Nothing to build for clase7LaboratorioTest
+Info: Nothing to build for clase7LaboratorioEj1
+Info: Nothing to build for clase7LaboratorioEj1
+21:18:56 **** Incremental Build of configuration Debug for project clase7LaboratorioEj1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\clase7LaboratorioEj1.o" "..\\src\\clase7LaboratorioEj1.c" 
+..\src\clase7LaboratorioEj1.c: In function 'main':
+..\src\clase7LaboratorioEj1.c:44:3: warning: statement with no effect [-Wunused-value]
+   tolower(nombre[i]);
+   ^~~~~~~~~~~~~~~~~~
+..\src\clase7LaboratorioEj1.c:45:3: warning: statement with no effect [-Wunused-value]
+   tolower(apellido[i]);
+   ^~~~~~~~~~~~~~~~~~~~
+..\src\clase7LaboratorioEj1.c:48:2: warning: statement with no effect [-Wunused-value]
+  toupper(nombre[0]);
+  ^~~~~~~~~~~~~~~~~~
+..\src\clase7LaboratorioEj1.c:49:2: warning: statement with no effect [-Wunused-value]
+  toupper(apellido[0]);
+  ^~~~~~~~~~~~~~~~~~~~
+..\src\clase7LaboratorioEj1.c:28:7: warning: unused variable 'nombreApellido' [-Wunused-variable]
+  char nombreApellido [MAX];
+       ^~~~~~~~~~~~~~
+gcc -o clase7LaboratorioEj1.exe "src\\clase7LaboratorioEj1.o" 
+Info: Nothing to build for clase7LaboratorioTest
+21:24:00 **** Incremental Build of configuration Debug for project clase7LaboratorioEj1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\clase7LaboratorioEj1.o" "..\\src\\clase7LaboratorioEj1.c" 
+..\src\clase7LaboratorioEj1.c: In function 'main':
+..\src\clase7LaboratorioEj1.c:45:10: warning: passing argument 1 of 'strlwr' makes pointer from integer without a cast [-Wint-conversion]
+   strlwr(nombre[i]);
+          ^~~~~~
+In file included from ..\src\clase7LaboratorioEj1.c:18:0:
+c:\mingw\include\string.h:140:40: note: expected 'char *' but argument is of type 'char'
+ _CRTIMP __cdecl __MINGW_NOTHROW  char *strlwr (char *);
+                                        ^~~~~~
+..\src\clase7LaboratorioEj1.c:46:10: warning: passing argument 1 of 'strlwr' makes pointer from integer without a cast [-Wint-conversion]
+   strlwr(apellido[i]);
+          ^~~~~~~~
+In file included from ..\src\clase7LaboratorioEj1.c:18:0:
+c:\mingw\include\string.h:140:40: note: expected 'char *' but argument is of type 'char'
+ _CRTIMP __cdecl __MINGW_NOTHROW  char *strlwr (char *);
+                                        ^~~~~~
+..\src\clase7LaboratorioEj1.c:49:2: warning: statement with no effect [-Wunused-value]
+  toupper(nombre[0]);
+  ^~~~~~~~~~~~~~~~~~
+..\src\clase7LaboratorioEj1.c:50:2: warning: statement with no effect [-Wunused-value]
+  toupper(apellido[0]);
+  ^~~~~~~~~~~~~~~~~~~~
+..\src\clase7LaboratorioEj1.c:29:7: warning: unused variable 'nombreApellido' [-Wunused-variable]
+  char nombreApellido [60];
+       ^~~~~~~~~~~~~~
+gcc -o clase7LaboratorioEj1.exe "src\\clase7LaboratorioEj1.o" 
+21:25:41 **** Incremental Build of configuration Debug for project clase7LaboratorioEj1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\clase7LaboratorioEj1.o" "..\\src\\clase7LaboratorioEj1.c" 
+..\src\clase7LaboratorioEj1.c: In function 'main':
+..\src\clase7LaboratorioEj1.c:49:2: warning: statement with no effect [-Wunused-value]
+  toupper(nombre[0]);
+  ^~~~~~~~~~~~~~~~~~
+..\src\clase7LaboratorioEj1.c:50:2: warning: statement with no effect [-Wunused-value]
+  toupper(apellido[0]);
+  ^~~~~~~~~~~~~~~~~~~~
+..\src\clase7LaboratorioEj1.c:29:7: warning: unused variable 'nombreApellido' [-Wunused-variable]
+  char nombreApellido [60];
+       ^~~~~~~~~~~~~~
+gcc -o clase7LaboratorioEj1.exe "src\\clase7LaboratorioEj1.o" 
+21:27:38 **** Incremental Build of configuration Debug for project clase7LaboratorioEj1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\clase7LaboratorioEj1.o" "..\\src\\clase7LaboratorioEj1.c" 
+..\src\clase7LaboratorioEj1.c: In function 'main':
+..\src\clase7LaboratorioEj1.c:30:6: warning: unused variable 'i' [-Wunused-variable]
+  int i;
+      ^
+..\src\clase7LaboratorioEj1.c:29:7: warning: unused variable 'nombreApellido' [-Wunused-variable]
+  char nombreApellido [60];
+       ^~~~~~~~~~~~~~
+gcc -o clase7LaboratorioEj1.exe "src\\clase7LaboratorioEj1.o" 
+21:28:02 **** Incremental Build of configuration Debug for project clase7LaboratorioEj1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\clase7LaboratorioEj1.o" "..\\src\\clase7LaboratorioEj1.c" 
+gcc -o clase7LaboratorioEj1.exe "src\\clase7LaboratorioEj1.o" 
+Info: Nothing to build for clase7LaboratorioEj1
+21:30:12 **** Incremental Build of configuration Debug for project clase7LaboratorioEj1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\clase7LaboratorioEj1.o" "..\\src\\clase7LaboratorioEj1.c" 
+..\src\clase7LaboratorioEj1.c: In function 'main':
+..\src\clase7LaboratorioEj1.c:29:7: warning: unused variable 'nombreApellido' [-Wunused-variable]
+  char nombreApellido [60];
+       ^~~~~~~~~~~~~~
+gcc -o clase7LaboratorioEj1.exe "src\\clase7LaboratorioEj1.o" 
+21:30:22 **** Incremental Build of configuration Debug for project clase7LaboratorioEj1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\clase7LaboratorioEj1.o" "..\\src\\clase7LaboratorioEj1.c" 
+gcc -o clase7LaboratorioEj1.exe "src\\clase7LaboratorioEj1.o" 
+Info: Nothing to build for clase7LaboratorioEj1
+21:33:41 **** Incremental Build of configuration Debug for project clase7LaboratorioEj1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\clase7LaboratorioEj1.o" "..\\src\\clase7LaboratorioEj1.c" 
+gcc -o clase7LaboratorioEj1.exe "src\\clase7LaboratorioEj1.o" 
+21:34:50 **** Incremental Build of configuration Debug for project clase7LaboratorioEj1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\clase7LaboratorioEj1.o" "..\\src\\clase7LaboratorioEj1.c" 
+gcc -o clase7LaboratorioEj1.exe "src\\clase7LaboratorioEj1.o" 
+Info: Nothing to build for clase7LaboratorioEj1
+21:35:36 **** Incremental Build of configuration Debug for project clase7LaboratorioEj1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\clase7LaboratorioEj1.o" "..\\src\\clase7LaboratorioEj1.c" 
+gcc -o clase7LaboratorioEj1.exe "src\\clase7LaboratorioEj1.o" 
+Info: Nothing to build for clase7LaboratorioEj1
+21:48:43 **** Incremental Build of configuration Debug for project clase7LaboratorioEj1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\clase7LaboratorioEj1.o" "..\\src\\clase7LaboratorioEj1.c" 
+gcc -o clase7LaboratorioEj1.exe "src\\clase7LaboratorioEj1.o" 
+10:17:44 **** Incremental Build of configuration Debug for project testFactorial ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\testFactorial.o" "..\\src\\testFactorial.c" 
+..\src\testFactorial.c: In function 'main':
+..\src\testFactorial.c:23:35: warning: format '%d' expects argument of type 'int', but argument 3 has type 'long int' [-Wformat=]
+  printf("El factorial de %d! es: %d",numero,resultadoFactorial);
+                                   ^
+..\src\testFactorial.c: In function 'factorial':
+..\src\testFactorial.c:33:21: warning: passing argument 1 of 'auxiliarFactorial' makes pointer from integer without a cast [-Wint-conversion]
+   auxiliarFactorial(numero);
+                     ^~~~~~
+..\src\testFactorial.c:14:10: note: expected 'int *' but argument is of type 'int'
+ long int auxiliarFactorial(int* punteroNumero);
+          ^~~~~~~~~~~~~~~~~
+..\src\testFactorial.c: In function 'auxiliarFactorial':
+..\src\testFactorial.c:44:12: warning: variable 'numeroLocal' set but not used [-Wunused-but-set-variable]
+   long int numeroLocal;
+            ^~~~~~~~~~~
+gcc -o testFactorial.exe "src\\testFactorial.o" 
+Info: Nothing to build for testFactorial
+01:49:22 **** Rebuild of configuration Debug for project testGithube1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\testGithube1.o" "..\\src\\testGithube1.c" 
+gcc -o testGithube1.exe "src\\testGithube1.o" 

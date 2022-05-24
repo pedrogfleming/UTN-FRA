@@ -1,0 +1,15 @@
+C:\Users\pedro\source\repos\Ejercicio 1\ConsoleApp2\bin\Debug\net5.0\ejercicioUno.exe
+C:\Users\pedro\source\repos\Ejercicio 1\ConsoleApp2\bin\Debug\net5.0\ejercicioUno.deps.json
+C:\Users\pedro\source\repos\Ejercicio 1\ConsoleApp2\bin\Debug\net5.0\ejercicioUno.runtimeconfig.json
+C:\Users\pedro\source\repos\Ejercicio 1\ConsoleApp2\bin\Debug\net5.0\ejercicioUno.runtimeconfig.dev.json
+C:\Users\pedro\source\repos\Ejercicio 1\ConsoleApp2\bin\Debug\net5.0\ejercicioUno.dll
+C:\Users\pedro\source\repos\Ejercicio 1\ConsoleApp2\bin\Debug\net5.0\ref\ejercicioUno.dll
+C:\Users\pedro\source\repos\Ejercicio 1\ConsoleApp2\bin\Debug\net5.0\ejercicioUno.pdb
+C:\Users\pedro\source\repos\Ejercicio 1\ConsoleApp2\obj\Debug\net5.0\ejercicioUno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\Ejercicio 1\ConsoleApp2\obj\Debug\net5.0\ejercicioUno.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\Ejercicio 1\ConsoleApp2\obj\Debug\net5.0\ejercicioUno.AssemblyInfo.cs
+C:\Users\pedro\source\repos\Ejercicio 1\ConsoleApp2\obj\Debug\net5.0\ejercicioUno.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\Ejercicio 1\ConsoleApp2\obj\Debug\net5.0\ejercicioUno.dll
+C:\Users\pedro\source\repos\Ejercicio 1\ConsoleApp2\obj\Debug\net5.0\ref\ejercicioUno.dll
+C:\Users\pedro\source\repos\Ejercicio 1\ConsoleApp2\obj\Debug\net5.0\ejercicioUno.pdb
+C:\Users\pedro\source\repos\Ejercicio 1\ConsoleApp2\obj\Debug\net5.0\ejercicioUno.genruntimeconfig.cache
